@@ -4,3 +4,5 @@ This project is a C# windows form application that would allow the user to conve
 This system has a total of five (5) forms – one for each number system – and a main form that would act as a homepage of the program.  
 
 In my code, I have included a proper error handling setup. Any inputs that would not follow the instructions would be given a warning message – with the improper input automatically cleared so that a new input can be placed.
+
+NOTE: I have tried to create my own working algorithm based on my understanding of the topic and refrained from copying from sources available online.
